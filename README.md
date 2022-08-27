@@ -1,2 +1,0 @@
-# myrep
-Repository for testing
